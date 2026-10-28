@@ -42,6 +42,14 @@ The queries cover different retail sales analysis tasks, including:
 - Ranking products and customers
 - Advanced SQL analysis using CTEs and window functions
 
+## Key Findings
+
+Based on the sample dataset (total sales: ₹543,500):
+
+* Top customer: Rahul (customer_id 3) with ₹240,000, about 44% of total sales
+* Top product: phone (product_id 104) with ₹275,000 in sales
+* Top category: Electronics with ₹520,000, about 96% of total sales
+  
 ## Tools Used
 
 - MySQL
