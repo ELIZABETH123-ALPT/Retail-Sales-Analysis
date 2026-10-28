@@ -49,6 +49,20 @@ Based on the sample dataset (total sales: ₹543,500):
 * Top customer: Rahul (customer_id 3) with ₹240,000, about 44% of total sales
 * Top product: phone (product_id 104) with ₹275,000 in sales
 * Top category: Electronics with ₹520,000, about 96% of total sales
+
+### Query Results
+
+**Top customer**
+![Top customer](top-customer.png)
+
+**Top product**
+![Top product](top-product.png)
+
+**Top category**
+![Top category](top-category.png)
+
+**Total sales**
+![Total sales](total-sales.png)
   
 ## Tools Used
 
